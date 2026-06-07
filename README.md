@@ -1,2 +1,1 @@
-# Wiedenhoff_Castle
-Castle for IT in Energy
+# BESS Optimierung mit PyPSA
